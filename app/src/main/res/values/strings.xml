@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ejerExtraFinde</string>
+    <string name="action_settings">Ajustes</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="txtequipoLocal">EQUIPO LOCAL</string>
+    <string name="txtequipoVisitante">EQUIPO VISITANTE</string>
+    <string name="txtGolesLocal">Goles Local</string>
+    <string name="txtGolesVisitante">Goles Visitante</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="txtResumen">Resumen</string>
+    <string name="txtGanador">VER GANADOR</string>
+</resources>

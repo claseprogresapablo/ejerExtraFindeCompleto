@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ejerExtraFinde</string>
+    <string name="action_settings">settings</string>
+    <string name="txtequipoLocal">Local Team</string>
+    <string name="txtequipoVisitante">Visitor Team</string>
+    <string name="txtGolesLocal">Local Goals</string>
+    <string name="txtGolesVisitante">Visitor Goals</string>
+    <string name="btnCancelar">Cancel</string>
+    <string name="btnAceptar">Acept</string>
+    <string name="txtResumen">Resume</string>
+    <string name="txtGanador">see winner</string>
+</resources>
